@@ -24,4 +24,4 @@ jobs:
       - name: Run OpenCode
         uses: anomalyco/opencode/github@latest
         with:
-          model: opencode/deepseek-v4-flash-free
+          model: opencode/deepseek-v4.1-flash-free
